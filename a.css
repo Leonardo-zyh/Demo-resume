@@ -59,6 +59,7 @@ a{
 }
 .topNavBar .logo .rs{
     color: #e6686a;
+    margin-right: 4px;/*logo两间隔*/
 }
 .topNavBar .logo .card{
     color: #9A9DA2;
