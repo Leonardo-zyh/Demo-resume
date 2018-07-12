@@ -139,10 +139,12 @@ a {
     border: none
     border-top: 1px solid #dedede;
   }
+ 
   .usercard dl dt,
   .usercard dl dd {
     float: left;
     margin: 5px 0;
+    ;
 
   }
   .usercard dl dt{
@@ -154,6 +156,7 @@ a {
     color: #9da0a7;
 
   }
+ 
   .usercard .media{
     background-color: #e6686a;
     text-align: center;
